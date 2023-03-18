@@ -11,6 +11,7 @@ Added:
 
 Changed:
 - Type c
+- ESP32-WROOM-32D version
 - K7803-2000r3l or K7803-2000r3 for 5v to 3.3v convert
 - Texts in pinout
 - My logo
