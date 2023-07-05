@@ -17,4 +17,4 @@ The circuit taken as an example while designing the board [Olimex ESP32-Gateway]
 - ESP32-WROOM-32D model
 - K7803-2000R3L or K7803-2000R3 for 5v to 3.3v convert
 - Texts in pinout
-- My logo
+- Logo
