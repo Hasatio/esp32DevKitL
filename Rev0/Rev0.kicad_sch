@@ -9300,7 +9300,7 @@
     (pin "1" (uuid 144d175f-48d9-4d9b-93ec-a16a867110e3))
     (pin "2" (uuid f9ccddc0-b617-4815-b18c-5f817a0fac1c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "BUT1") (unit 1)
         )
@@ -9335,7 +9335,7 @@
     (pin "1" (uuid 476092f4-8eaf-44e4-af7d-87a2bc5e6d8e))
     (pin "2" (uuid 1f89b8cd-0ca3-4ade-9cbc-41e178fe401b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RST1") (unit 1)
         )
@@ -9370,7 +9370,7 @@
     (pin "1" (uuid ab8495dd-0f1e-4db2-8fde-3011d1409a7e))
     (pin "2" (uuid b4f5106a-3d2d-4324-bf12-d524abe27f39))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R51") (unit 1)
         )
@@ -9395,7 +9395,7 @@
     )
     (pin "1" (uuid 2f04b99b-f983-414e-981f-83f5c88e9107))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR072") (unit 1)
         )
@@ -9420,7 +9420,7 @@
     )
     (pin "1" (uuid dcc470e3-d203-4061-be10-ba016af38180))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR073") (unit 1)
         )
@@ -9455,7 +9455,7 @@
     (pin "1" (uuid 17532bf8-23ae-457a-8cb7-bbc166820510))
     (pin "2" (uuid 38408ea7-d54b-4dea-a9ae-3b1ee9147cf7))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C12") (unit 1)
         )
@@ -9480,7 +9480,7 @@
     )
     (pin "1" (uuid b39172ea-8ae2-4134-8e62-3365a507ddcb))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR018") (unit 1)
         )
@@ -9515,7 +9515,7 @@
     (pin "1" (uuid 0b565b52-d3ae-43cd-98e2-a5187c323ff6))
     (pin "2" (uuid e2c13d73-78d0-4ed1-91ff-211e48c41c52))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R5") (unit 1)
         )
@@ -9550,7 +9550,7 @@
     (pin "1" (uuid 81da6de9-bca2-4113-9ac2-8ac671bf4c7d))
     (pin "2" (uuid 8e419a8e-d79f-41a6-bc86-c22466180ca1))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R7") (unit 1)
         )
@@ -9585,7 +9585,7 @@
     (pin "1" (uuid 4a04097a-55f9-4f58-ac75-09113d70b6d5))
     (pin "2" (uuid 8da20b1a-6cc2-43d7-8d2a-eee83c81e83b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R8") (unit 1)
         )
@@ -9620,7 +9620,7 @@
     (pin "1" (uuid eacce00a-f0fa-4b59-b36c-b16a59641399))
     (pin "2" (uuid 1a8b2415-4246-4fd9-94dc-efe250c98d7b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R9") (unit 1)
         )
@@ -9655,7 +9655,7 @@
     (pin "1" (uuid d14e1e3a-0996-4ee2-8116-8743ed4d7457))
     (pin "2" (uuid ed18a2ce-a3d3-45f7-9397-affe295e6f09))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R10") (unit 1)
         )
@@ -9690,7 +9690,7 @@
     (pin "1" (uuid d8810a04-b0b6-43e2-aa00-5490ae3cecff))
     (pin "2" (uuid a4e49401-33c4-437c-8670-b53d07db48ad))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C18") (unit 1)
         )
@@ -9725,7 +9725,7 @@
     (pin "1" (uuid d55b40b6-d188-484b-a8a1-8d2444883279))
     (pin "2" (uuid a9712f86-0371-4e33-a155-9bcac7013802))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C17") (unit 1)
         )
@@ -9760,7 +9760,7 @@
     (pin "1" (uuid 444f157a-a0fd-4bb5-93cd-955080649374))
     (pin "2" (uuid 30c8b185-1d20-4291-857c-ca85861e1bd2))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C16") (unit 1)
         )
@@ -9795,7 +9795,7 @@
     (pin "1" (uuid da2add1b-41f8-41eb-88dd-839e74b174ca))
     (pin "2" (uuid d3cead18-282e-4ca3-8b63-93d2b0a4b402))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C15") (unit 1)
         )
@@ -9830,7 +9830,7 @@
     (pin "1" (uuid 5b2c3061-155f-470d-b86d-ffef44c27a7c))
     (pin "2" (uuid 70b429ce-f766-4372-a1d2-a87b0f831404))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C13") (unit 1)
         )
@@ -9855,7 +9855,7 @@
     )
     (pin "1" (uuid 05c26083-dc23-4c36-b579-d4cf24a8d585))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR043") (unit 1)
         )
@@ -9880,7 +9880,7 @@
     )
     (pin "1" (uuid 3aa6539a-98d1-4648-8e63-77b531d3206e))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR044") (unit 1)
         )
@@ -9905,7 +9905,7 @@
     )
     (pin "1" (uuid 91d5491d-31f8-41ae-89e1-9dacb5f904f8))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR045") (unit 1)
         )
@@ -9930,7 +9930,7 @@
     )
     (pin "1" (uuid 3de91242-d54b-445c-915d-d434223a43ab))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR023") (unit 1)
         )
@@ -9955,7 +9955,7 @@
     )
     (pin "1" (uuid 5a9b664d-e3f5-4687-af43-adbeb20b6f8c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR041") (unit 1)
         )
@@ -9990,7 +9990,7 @@
     (pin "1" (uuid e354dc29-0ed1-44d6-9eeb-4b82a571b03c))
     (pin "2" (uuid 735f338f-f273-4752-9593-6819258c29b0))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R6") (unit 1)
         )
@@ -10015,7 +10015,7 @@
     )
     (pin "1" (uuid 3247a3a9-a8b1-49d1-a51d-160a6c9797b2))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR019") (unit 1)
         )
@@ -10081,7 +10081,7 @@
     (pin "8" (uuid 591e2eac-a6d5-4aaa-9ea1-e5953a54bf7d))
     (pin "9" (uuid 18f340af-c817-4abd-b167-761f7f3eab77))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "U4") (unit 1)
         )
@@ -10124,7 +10124,7 @@
     (pin "SH1" (uuid 0535fe19-95cd-4eaa-91ec-c23bfe70ba94))
     (pin "SH2" (uuid 1113f5e3-48a9-4d41-8130-3786a0895315))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "MICRO_SD1") (unit 1)
         )
@@ -10149,7 +10149,7 @@
     )
     (pin "1" (uuid f54be37a-b88f-4e91-85eb-6050b80a5996))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR032") (unit 1)
         )
@@ -10181,7 +10181,7 @@
     (pin "4.1" (uuid 07f08d63-a53b-4d26-b2c9-957579e6015f))
     (pin "4.2" (uuid 165ba5b4-92ab-4e69-822a-6d1ee0bb2e30))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RM2") (unit 1)
         )
@@ -10213,7 +10213,7 @@
     (pin "4.1" (uuid 55027589-fcf7-46ff-ba9a-1f2ad90e87f3))
     (pin "4.2" (uuid c77308e5-900d-4ef7-920a-00ea6f5bc7e3))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RM2") (unit 2)
         )
@@ -10245,7 +10245,7 @@
     (pin "4.1" (uuid 799c348a-162b-4506-8dd0-5e4f932326a5))
     (pin "4.2" (uuid f58ece28-b11c-400f-9fc8-10a6afed1634))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RM2") (unit 3)
         )
@@ -10277,7 +10277,7 @@
     (pin "4.1" (uuid 5a95dbd5-6ea3-4b0c-92a1-9478408e5e7b))
     (pin "4.2" (uuid 1d84f75b-b291-4b25-a102-06c0ded9ab51))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RM2") (unit 4)
         )
@@ -10302,7 +10302,7 @@
     )
     (pin "1" (uuid 38788b67-15bc-43f4-8da7-6961a10f9992))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR022") (unit 1)
         )
@@ -10334,7 +10334,7 @@
     (pin "4.1" (uuid bc20cce0-c4f2-42cb-ab02-c5961eaa7d6f))
     (pin "4.2" (uuid 89f2dc51-d2ee-40e9-aaec-5f3e2a69ea06))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RM1") (unit 1)
         )
@@ -10366,7 +10366,7 @@
     (pin "4.1" (uuid 25c94822-b35b-4d36-9167-0d3f411f7abe))
     (pin "4.2" (uuid 50b3d26a-7425-44e2-9af7-cc9b76b0f33c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RM1") (unit 2)
         )
@@ -10398,7 +10398,7 @@
     (pin "4.1" (uuid 1805eff5-19c8-451a-8463-e019c6244809))
     (pin "4.2" (uuid e2c8f51e-c524-4fda-8877-92f73f27cdeb))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RM1") (unit 3)
         )
@@ -10439,7 +10439,7 @@
     (pin "4.1" (uuid 1aa34374-6df9-4db0-8cdb-90b667c3cd5f))
     (pin "4.2" (uuid f967fc3b-087a-40af-824e-3c9b9d849bb3))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RM1") (unit 4)
         )
@@ -10464,7 +10464,7 @@
     )
     (pin "1" (uuid a5b5b0da-f438-434c-9837-30a42698596d))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR042") (unit 1)
         )
@@ -10499,7 +10499,7 @@
     (pin "1" (uuid 0e3023a5-7b41-481e-b854-712b59ab16a6))
     (pin "2" (uuid 92ead278-2955-4fd5-b597-9f30792586d1))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R22") (unit 1)
         )
@@ -10534,7 +10534,7 @@
     (pin "1" (uuid 6a813406-017e-4f53-b062-264cc6607780))
     (pin "2" (uuid 1ddc0c10-cdd8-406c-bef2-481fa0207272))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R39") (unit 1)
         )
@@ -10569,7 +10569,7 @@
     (pin "1" (uuid ecde3268-b3f2-4282-ba4c-b4da45b20380))
     (pin "2" (uuid b38af6a6-2e37-4323-a5ce-1efff722bfab))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R18") (unit 1)
         )
@@ -10604,7 +10604,7 @@
     (pin "1" (uuid c91210f8-f4e6-4537-b7da-0375edfa1449))
     (pin "2" (uuid b6c475be-1785-4c7b-8fb0-afec4a97d354))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R19") (unit 1)
         )
@@ -10629,7 +10629,7 @@
     )
     (pin "1" (uuid 60eea1a9-c86b-48fe-a40e-ebaa7a60e4d4))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR034") (unit 1)
         )
@@ -10664,7 +10664,7 @@
     (pin "1" (uuid 46b2802b-86f0-4219-9cac-c59d9c29dfc1))
     (pin "2" (uuid 2f8bb25e-ac0b-4d3c-b764-74a59ee0aad0))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C20") (unit 1)
         )
@@ -10689,7 +10689,7 @@
     )
     (pin "1" (uuid 04d224c2-ce58-449c-9be9-5f47a563f98b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR063") (unit 1)
         )
@@ -10724,7 +10724,7 @@
     (pin "1" (uuid 9685b2b4-c927-4b39-af94-cf4e7588e49b))
     (pin "2" (uuid 76efcd0b-308f-4a6a-b3be-763bc15f153e))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C24") (unit 1)
         )
@@ -10769,7 +10769,7 @@
     (pin "KG1" (uuid 67775499-0c89-4969-b527-af92b7aedc40))
     (pin "KY1" (uuid b368f392-8732-4ab0-902c-496f4bd6a731))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "LAN1") (unit 1)
         )
@@ -10804,7 +10804,7 @@
     (pin "1" (uuid df1972a4-e922-4bce-8559-beae0cef9081))
     (pin "2" (uuid 2b79f1ec-0707-4bec-bddd-5433d32e4ed0))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C14") (unit 1)
         )
@@ -10829,7 +10829,7 @@
     )
     (pin "1" (uuid d17af28a-b48d-40cd-a7fa-82e43ac49661))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR047") (unit 1)
         )
@@ -10854,7 +10854,7 @@
     )
     (pin "1" (uuid 3baeea71-22c9-4e0e-a2b2-7ae5a59a389d))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR07") (unit 1)
         )
@@ -10879,7 +10879,7 @@
     )
     (pin "1" (uuid 53b18a63-cd5c-4fa2-a665-69ecc61847c0))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR021") (unit 1)
         )
@@ -10914,7 +10914,7 @@
     (pin "1" (uuid 0b0127aa-c71c-47cf-8a68-f6540670df50))
     (pin "2" (uuid 09bb9b14-9693-4a34-9701-40ba0e83ba67))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C5") (unit 1)
         )
@@ -10949,7 +10949,7 @@
     (pin "1" (uuid b4272877-9c44-4a18-8a56-9d598db23e45))
     (pin "2" (uuid a0307582-0572-4925-b351-6bdd7619a286))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C10") (unit 1)
         )
@@ -10974,7 +10974,7 @@
     )
     (pin "1" (uuid 63e3ae69-bb29-4732-b024-e2dfa82757ff))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR014") (unit 1)
         )
@@ -10999,7 +10999,7 @@
     )
     (pin "1" (uuid 3b40d1f3-5d9b-4ea4-9715-271701c35d7b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR015") (unit 1)
         )
@@ -11024,7 +11024,7 @@
     )
     (pin "1" (uuid 8bdf8b5a-2d65-4bec-b58b-2c9239069828))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG08") (unit 1)
         )
@@ -11049,7 +11049,7 @@
     )
     (pin "1" (uuid 131f741b-8927-450e-a360-812b12cde8ca))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG09") (unit 1)
         )
@@ -11074,7 +11074,7 @@
     )
     (pin "1" (uuid 87206b05-ee7f-4579-8d0e-40143425a4bc))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG012") (unit 1)
         )
@@ -11146,7 +11146,7 @@
     (pin "8" (uuid 181db7ae-02f2-4f27-bd9c-e6be4245d55e))
     (pin "9" (uuid 42e0d15b-9b4f-41d0-a281-383663cd2d2b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "U7") (unit 1)
         )
@@ -11181,7 +11181,7 @@
     (pin "1" (uuid 1183a699-6d21-4508-b0f8-51392f39deea))
     (pin "2" (uuid 15e64971-63ee-41df-8fb4-21f4a3742063))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C3") (unit 1)
         )
@@ -11216,7 +11216,7 @@
     (pin "1" (uuid 19f3368e-896c-4559-9e24-77900790df61))
     (pin "2" (uuid ed455b1d-7ba2-459b-824e-b147f9c7bc9f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C4") (unit 1)
         )
@@ -11241,7 +11241,7 @@
     )
     (pin "1" (uuid b473965a-7792-4dee-9752-9a5532929756))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR05") (unit 1)
         )
@@ -11276,7 +11276,7 @@
     (pin "1" (uuid 48a38a10-1b52-4f75-b8df-47bc1d72f12c))
     (pin "2" (uuid 55e0643a-4164-4d65-a4da-70c0729fe6ba))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R20") (unit 1)
         )
@@ -11311,7 +11311,7 @@
     (pin "1" (uuid 07eaeff8-c479-4621-8fa0-f3c4c396baeb))
     (pin "2" (uuid b95c5267-5545-4120-b764-e26a126a346e))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "RESET") (unit 1)
         )
@@ -11336,7 +11336,7 @@
     )
     (pin "1" (uuid dd5db236-22f3-4141-befa-61d8ad98e7fa))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR031") (unit 1)
         )
@@ -11377,7 +11377,7 @@
     (pin "8" (uuid f4c77978-7a6b-4c86-8122-c1013cebeb96))
     (pin "9" (uuid 3f04d77b-4972-4f57-b381-2e33f9c22fb2))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "U3") (unit 1)
         )
@@ -11402,7 +11402,7 @@
     )
     (pin "1" (uuid a1ea09f5-8c3a-47a4-91ac-0f7a7b93a9a6))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR075") (unit 1)
         )
@@ -11437,7 +11437,7 @@
     (pin "1" (uuid 087bff2e-e901-489b-9ef9-86aafb292d3a))
     (pin "2" (uuid dd5723b6-3f6e-4869-9e61-394718e09eaa))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R52") (unit 1)
         )
@@ -11472,7 +11472,7 @@
     (pin "1" (uuid b775fe30-3e71-4958-bee3-626017abd91b))
     (pin "2" (uuid 6321f30d-6c33-4917-af07-c5d1c0aa51ad))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C6") (unit 1)
         )
@@ -11497,7 +11497,7 @@
     )
     (pin "1" (uuid 9c8869c9-c6a6-4f30-a802-b6ccad40670b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR012") (unit 1)
         )
@@ -11532,7 +11532,7 @@
     (pin "1" (uuid b7109d3e-538e-475a-9b1e-7b54872a5d87))
     (pin "2" (uuid 54bff7f9-d024-4170-8399-3faf75c6769c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R11") (unit 1)
         )
@@ -11567,7 +11567,7 @@
     (pin "1" (uuid bf2b404b-82e5-4949-8297-2cfe0dc24709))
     (pin "2" (uuid 6d7aa004-e045-4f2f-ad56-9cea01d64506))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R12") (unit 1)
         )
@@ -11602,7 +11602,7 @@
     (pin "1" (uuid f5fafe7e-156a-4ffd-9875-0369acca26bb))
     (pin "2" (uuid a380dbd4-fae4-4cae-a9db-8d580eec3cab))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C7") (unit 1)
         )
@@ -11627,7 +11627,7 @@
     )
     (pin "1" (uuid 61e41b5c-495a-4b30-868b-c3cea829478e))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR010") (unit 1)
         )
@@ -11652,7 +11652,7 @@
     )
     (pin "1" (uuid 1444b500-9907-425c-892d-7de23eb871c3))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR011") (unit 1)
         )
@@ -11679,7 +11679,7 @@
     (pin "2" (uuid 22e19d54-4f81-4c94-8478-f2bbb17d3cf5))
     (pin "3" (uuid efaccccf-a18a-4823-883e-ac20e0311533))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "Q2") (unit 1)
         )
@@ -11705,7 +11705,7 @@
     (pin "1" (uuid cb03f0a1-b864-42c3-a75a-cb787d1143e4))
     (pin "2" (uuid 61b8f050-2a97-40e3-bb20-3380924d4102))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "Q1") (unit 1)
         )
@@ -11740,7 +11740,7 @@
     (pin "1" (uuid b9ec5b69-537e-4099-9655-99b622321a65))
     (pin "2" (uuid efaf5c2a-9181-4209-b090-0ed236946f10))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R15") (unit 1)
         )
@@ -11775,7 +11775,7 @@
     (pin "1" (uuid 8dcc78b3-af16-4698-a0bd-f84006f6b7b9))
     (pin "2" (uuid e577a2bb-d9b3-4e41-80c5-69e8705b9879))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C8") (unit 1)
         )
@@ -11802,7 +11802,7 @@
     (pin "2" (uuid 08d41e5c-e721-4e1e-9638-e539f61bd199))
     (pin "3" (uuid 9cc3ce34-e463-4712-b33e-0ec43c8c3188))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "Q3") (unit 1)
         )
@@ -11837,7 +11837,7 @@
     (pin "1" (uuid c924fad0-50dd-4b36-a3de-0cf334db5726))
     (pin "2" (uuid 33e46e59-87d8-4911-9945-dd82ac8317c7))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R16") (unit 1)
         )
@@ -11872,7 +11872,7 @@
     (pin "1" (uuid 5d1eea87-f073-4059-be08-048e9f4cddf8))
     (pin "2" (uuid 364d1195-a9fa-424f-a3e1-35ab48bc7d4b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C9") (unit 1)
         )
@@ -11897,7 +11897,7 @@
     )
     (pin "1" (uuid e6219b01-be0d-41c3-984b-69f473c6df7e))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR09") (unit 1)
         )
@@ -11923,7 +11923,7 @@
     (pin "1" (uuid ca4724fe-924d-499a-939b-991ac450e33f))
     (pin "2" (uuid 63f41be5-a442-49aa-9f21-50ad14afdd74))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R17") (unit 1)
         )
@@ -11949,7 +11949,7 @@
     (pin "1" (uuid 8f884eca-876e-44d6-b840-4f15f31a03eb))
     (pin "2" (uuid 4dcd939e-f6dd-4909-9b6c-77ca398b7a61))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R40") (unit 1)
         )
@@ -11976,7 +11976,7 @@
     (pin "2" (uuid ae1b3b46-039e-4a00-beb5-c3bafd8159e1))
     (pin "3" (uuid 683cc64f-bbee-40fc-8bac-52c61ccc7fe1))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "D5") (unit 1)
         )
@@ -12001,7 +12001,7 @@
     )
     (pin "1" (uuid 4c0bd99c-0341-4a81-b534-14dd4505f529))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR069") (unit 1)
         )
@@ -12026,7 +12026,7 @@
     )
     (pin "1" (uuid 2d653cb5-be1a-483a-8482-6d8b359b0db7))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR070") (unit 1)
         )
@@ -12051,7 +12051,7 @@
     )
     (pin "1" (uuid 49940f5b-179d-4123-af8b-b7e122f4b271))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR068") (unit 1)
         )
@@ -12076,7 +12076,7 @@
     )
     (pin "1" (uuid c5a63042-1bef-43f1-a42c-af1c04bc7695))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR071") (unit 1)
         )
@@ -12120,7 +12120,7 @@
     (pin "8" (uuid 165eb9db-46c0-4415-aa56-37d5d3ee1a76))
     (pin "9" (uuid b3e73d59-1020-4388-9abd-055e109574b3))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "CON1") (unit 1)
         )
@@ -12145,7 +12145,7 @@
     )
     (pin "GND1" (uuid 336466bb-d5cd-4ab5-8af3-a70fae186a99))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "MH2") (unit 1)
         )
@@ -12170,7 +12170,7 @@
     )
     (pin "GND1" (uuid e3c99831-ec2f-41dc-875f-6185501b52e1))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "MH1") (unit 1)
         )
@@ -12195,7 +12195,7 @@
     )
     (pin "1" (uuid c61b6697-2887-44ee-9d06-cc2e2f5431cd))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR074") (unit 1)
         )
@@ -12230,7 +12230,7 @@
     (pin "1" (uuid 81ebfb88-fcd7-43df-b5b4-bce91c684d59))
     (pin "2" (uuid c5bac01c-b2eb-4ce5-b4c7-10315615888e))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "LED1") (unit 1)
         )
@@ -12265,7 +12265,7 @@
     (pin "1" (uuid e9f4bd86-7e8c-425e-8f24-6ebe5af557c4))
     (pin "2" (uuid ea15c83f-a361-4b16-81df-52397f2b1c56))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R37") (unit 1)
         )
@@ -12290,7 +12290,7 @@
     )
     (pin "1" (uuid 16d7e7af-2e19-4e6e-9861-def85131d3e8))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR058") (unit 1)
         )
@@ -12325,7 +12325,7 @@
     (pin "1" (uuid 58769c78-e156-4239-89ff-69543db0499f))
     (pin "2" (uuid b6750cee-bcda-4fa7-bc68-43ef166fa36c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R53") (unit 1)
         )
@@ -12360,7 +12360,7 @@
     (pin "1" (uuid c61be7d5-d687-4c9b-8977-d603006110f3))
     (pin "2" (uuid e2775b57-e7cb-49f2-9f25-bb8c447a4d96))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R21") (unit 1)
         )
@@ -12395,7 +12395,7 @@
     (pin "1" (uuid 4dc45f69-6203-4cfe-b9a4-167b6b73d18a))
     (pin "2" (uuid 3cb15fce-d756-4981-bb34-98010e0685a2))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R23") (unit 1)
         )
@@ -12421,7 +12421,7 @@
     (pin "1" (uuid 89cdc24d-1f22-4a4f-bd11-c56749a1d900))
     (pin "2" (uuid 94097c01-c107-4786-b157-c652a065d9b8))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "L3") (unit 1)
         )
@@ -12447,7 +12447,7 @@
     (pin "1" (uuid 0b37e1b8-e889-4aab-a91e-f9fdf7b7dc66))
     (pin "2" (uuid d06d60c5-f8d1-41e7-b1a2-84c0f3a4c018))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "L2") (unit 1)
         )
@@ -12473,7 +12473,7 @@
     (pin "1" (uuid 3a21e703-28c6-4fcd-aa3b-17e10e477dbb))
     (pin "2" (uuid a42f99a7-59cd-449f-97e2-41727e369c5a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "L1") (unit 1)
         )
@@ -12508,7 +12508,7 @@
     (pin "1" (uuid a181eebb-57df-4870-85f6-9bb38edd61e5))
     (pin "2" (uuid 8d618c3d-5109-4af1-82a4-d17d9f980926))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C2") (unit 1)
         )
@@ -12535,7 +12535,7 @@
     (pin "2" (uuid 6c4cdebb-02c5-4c60-8c7a-60c7cdf4f021))
     (pin "3" (uuid 7b7486a1-c1de-499d-a521-e8b176ffd2e2))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "T1") (unit 1)
         )
@@ -12560,7 +12560,7 @@
     )
     (pin "1" (uuid a7d49614-b056-43b0-960a-5901552eadea))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR02") (unit 1)
         )
@@ -12587,7 +12587,7 @@
     (pin "2" (uuid de9fbf5a-7c50-4c16-b945-8c603eb4a4c4))
     (pin "3" (uuid d469e634-6ce5-44a1-a5ca-d86d23a4dd73))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "FET1") (unit 1)
         )
@@ -12622,7 +12622,7 @@
     (pin "1" (uuid 80ab6ece-82b1-4109-832d-063350860c56))
     (pin "2" (uuid f2705f5e-9bb1-4dc7-b320-6bbdf3756f66))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R2") (unit 1)
         )
@@ -12647,7 +12647,7 @@
     )
     (pin "1" (uuid 5eceed5a-6c2a-4726-a65a-0bbac19d6d3a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR03") (unit 1)
         )
@@ -12682,7 +12682,7 @@
     (pin "1" (uuid a73bc207-f72e-4c72-88dc-5d3ee6e780b9))
     (pin "2" (uuid 3271e093-7049-4c4d-9551-5a8fc663ee84))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R1") (unit 1)
         )
@@ -12707,7 +12707,7 @@
     )
     (pin "1" (uuid e6fc3a2a-f59c-4a7a-bb56-686a08411c50))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR013") (unit 1)
         )
@@ -12732,7 +12732,7 @@
     )
     (pin "1" (uuid 3004cbdb-4bda-4c25-933d-8635da214cfc))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR037") (unit 1)
         )
@@ -12757,7 +12757,7 @@
     )
     (pin "1" (uuid 724873db-2cc3-447b-acc6-50a718f9dd0f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR040") (unit 1)
         )
@@ -12782,7 +12782,7 @@
     )
     (pin "1" (uuid b0f915b6-a167-43de-b931-a77bb313577f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR038") (unit 1)
         )
@@ -12807,7 +12807,7 @@
     )
     (pin "1" (uuid ea9a58e6-7568-4bd5-9bd5-0b10ed8b436a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR039") (unit 1)
         )
@@ -12832,7 +12832,7 @@
     )
     (pin "1" (uuid df5f4807-2486-4175-be30-eda4cd8f03ba))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR026") (unit 1)
         )
@@ -12857,7 +12857,7 @@
     )
     (pin "1" (uuid b2bf07fb-4aec-4fd2-a16b-e0ea39712979))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG02") (unit 1)
         )
@@ -12882,7 +12882,7 @@
     )
     (pin "Fid1" (uuid 804d936f-2951-4ded-96ca-772c95712762))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "FID1") (unit 1)
         )
@@ -12907,7 +12907,7 @@
     )
     (pin "Fid1" (uuid 98d47ce0-3338-4bfb-86c0-49cf586f8743))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "FID2") (unit 1)
         )
@@ -12932,7 +12932,7 @@
     )
     (pin "Fid1" (uuid 7573ed36-31a3-4fe5-bac4-03f4fc226d87))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "FID3") (unit 1)
         )
@@ -12967,7 +12967,7 @@
     (pin "1" (uuid 3e463c3f-f0a0-4a6b-bb67-e93438c24703))
     (pin "2" (uuid 232f252a-b518-41fb-a970-97fece594e94))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R24") (unit 1)
         )
@@ -13002,7 +13002,7 @@
     (pin "1" (uuid 7f83fdf1-3039-4c9e-b983-d420346b6128))
     (pin "2" (uuid 7fc6dd5d-a999-4138-acfb-e767bac3c368))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R25") (unit 1)
         )
@@ -13037,7 +13037,7 @@
     (pin "1" (uuid 30e757e2-5d33-4304-b266-7ec8c1824e19))
     (pin "2" (uuid 7513df45-3012-4c0b-ae41-9fbfca89b31d))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R42") (unit 1)
         )
@@ -13072,7 +13072,7 @@
     (pin "1" (uuid aa453b48-884f-42f1-b764-c22a3148ebbb))
     (pin "2" (uuid 65bf01f2-9fc8-4c71-b311-7cdd19a34245))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R38") (unit 1)
         )
@@ -13107,7 +13107,7 @@
     (pin "1" (uuid 7e3d9dad-ffe7-4f0c-8579-45bca0e2a707))
     (pin "2" (uuid 8264283d-edf5-4be2-97ea-16e7f7399a74))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R41") (unit 1)
         )
@@ -13133,7 +13133,7 @@
     (pin "1" (uuid 2517a7f8-1859-4e54-ae82-5559f2536f9e))
     (pin "2" (uuid 6df66da3-65fc-44a9-90ab-c19e6c0fa736))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "D4") (unit 1)
         )
@@ -13159,7 +13159,7 @@
     (pin "1" (uuid 8ab78873-b59f-44f2-b1a2-604d9ece3fe5))
     (pin "2" (uuid b0586e7e-3bd4-4557-8227-ed4c34174dbf))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "D3") (unit 1)
         )
@@ -13184,7 +13184,7 @@
     )
     (pin "1" (uuid 600f18f3-5d70-45f7-a906-5a886d57cd70))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG03") (unit 1)
         )
@@ -13209,7 +13209,7 @@
     )
     (pin "1" (uuid 3bf7a8ee-8656-4380-ae05-951a26799854))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG04") (unit 1)
         )
@@ -13244,7 +13244,7 @@
     (pin "1" (uuid 552b663d-48ca-4b71-a7a1-9e253313e65d))
     (pin "2" (uuid 7fcce7e7-0da9-45de-818c-e89a23c6e8dc))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C22") (unit 1)
         )
@@ -13269,7 +13269,7 @@
     )
     (pin "1" (uuid 512ad20c-44ae-4480-a3e5-81f9b1186a09))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR046") (unit 1)
         )
@@ -13304,7 +13304,7 @@
     (pin "1" (uuid 277ece8c-7a77-43c4-8930-fb50e4859f8e))
     (pin "2" (uuid c621fba7-dfb0-4057-9edc-4252f0dc4e3a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R48") (unit 1)
         )
@@ -13339,7 +13339,7 @@
     (pin "1" (uuid 48dd84e5-30c8-4005-8cc5-c06878c542b6))
     (pin "2" (uuid 7134fcd4-37f5-4f63-8f8c-40cff5b52d58))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R35") (unit 1)
         )
@@ -13364,7 +13364,7 @@
     )
     (pin "1" (uuid 2d8511e4-e663-429a-a909-8c47169cf989))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR04") (unit 1)
         )
@@ -13389,7 +13389,7 @@
     )
     (pin "1" (uuid 2118eb81-42aa-4491-b521-eb3d5a3d4289))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR057") (unit 1)
         )
@@ -13423,7 +13423,7 @@
     )
     (pin "1" (uuid 419653eb-8bb0-4bc4-996e-f95046c1d765))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "GND1") (unit 1)
         )
@@ -13448,7 +13448,7 @@
     )
     (pin "1" (uuid ab84edef-9840-4912-af4c-42f2bfc106fa))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG07") (unit 1)
         )
@@ -13476,7 +13476,7 @@
     (pin "3" (uuid 8cee979a-6054-495f-800b-ae01c5b9488b))
     (pin "4" (uuid cf784b19-b105-4313-a5ac-5fb554b2c680))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "I²C1") (unit 1)
         )
@@ -13511,7 +13511,7 @@
     (pin "1" (uuid d95d56b5-6b0b-49a7-afc6-b69f47e5d485))
     (pin "2" (uuid a1eee9d7-e2bc-4c65-9460-dab6d3f00183))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R14") (unit 1)
         )
@@ -13539,7 +13539,7 @@
     (pin "3" (uuid 1b76e103-247a-445b-a976-1f77a3fe20f5))
     (pin "4" (uuid 56a82865-eaad-4b47-a9e6-93518d24a11a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "I²C3") (unit 1)
         )
@@ -13574,7 +13574,7 @@
     (pin "1" (uuid d12390b2-89c9-441f-a70a-6e6e78d4ae03))
     (pin "2" (uuid 01aef289-c14b-484c-977f-48cb469493dd))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C26") (unit 1)
         )
@@ -13601,7 +13601,7 @@
     (pin "2" (uuid 4407eae1-16fb-4e43-828b-d948a0c02ae9))
     (pin "3" (uuid 0d32d19c-1348-44ce-afba-2fb6f12ebd80))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "FET2") (unit 1)
         )
@@ -13636,7 +13636,7 @@
     (pin "1" (uuid f5d75d0d-b466-40d6-940d-c7cd1bc65a32))
     (pin "2" (uuid a53a82cd-1709-4411-9129-9081e9a52325))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R49") (unit 1)
         )
@@ -13661,7 +13661,7 @@
     )
     (pin "1" (uuid 4322e42d-ebeb-4586-8677-4c93de9dd592))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR020") (unit 1)
         )
@@ -13696,7 +13696,7 @@
     (pin "1" (uuid 91f122b8-a466-4589-a035-09dfd799db62))
     (pin "2" (uuid d722654a-66d1-4292-8dcc-58a70bcc8b72))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R45") (unit 1)
         )
@@ -13731,7 +13731,7 @@
     (pin "1" (uuid df9b1f3c-607e-4bf8-8be5-442c6a478fe5))
     (pin "2" (uuid f41c7015-70e9-4195-bf8c-83baeaad92c0))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R29") (unit 1)
         )
@@ -13759,7 +13759,7 @@
     (pin "3" (uuid 2b9893a2-66d1-4456-862c-8e3d8ea5a48b))
     (pin "4" (uuid 782099e0-4af8-4715-89c1-714974ba916a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "I²C4") (unit 1)
         )
@@ -13784,7 +13784,7 @@
     )
     (pin "1" (uuid ebfe884d-6805-41e9-a2f3-4e7163992dd1))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR049") (unit 1)
         )
@@ -13809,7 +13809,7 @@
     )
     (pin "1" (uuid d1d1a7c3-d083-4a20-9b21-e39b4a677165))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR033") (unit 1)
         )
@@ -13834,7 +13834,7 @@
     )
     (pin "1" (uuid bb19520a-c890-4df9-b708-3227b271029f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR029") (unit 1)
         )
@@ -13859,7 +13859,7 @@
     )
     (pin "1" (uuid 3cd207f3-643f-4818-836d-0ad4121c3a6a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR050") (unit 1)
         )
@@ -13894,7 +13894,7 @@
     (pin "1" (uuid ec40fc5f-0513-4bf4-a8b0-5f7036857b72))
     (pin "2" (uuid e61787e3-6ace-43e9-8e5c-87e1d715f67f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R32") (unit 1)
         )
@@ -13929,7 +13929,7 @@
     (pin "1" (uuid cf7043ee-c3b4-44e1-9f36-010a32450884))
     (pin "2" (uuid d6c40518-ca7b-4c4c-a23e-0deed5ad9c6f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C21") (unit 1)
         )
@@ -13954,7 +13954,7 @@
     )
     (pin "1" (uuid 7a76b493-7e5c-4f44-94a1-1d65ba24b360))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR027") (unit 1)
         )
@@ -13989,7 +13989,7 @@
     (pin "1" (uuid e835d7c9-498c-42fe-975e-cdb376e700c3))
     (pin "2" (uuid 1903c0b1-c28a-4dc6-9721-e282b7d7265c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C19") (unit 1)
         )
@@ -14014,7 +14014,7 @@
     )
     (pin "1" (uuid fd845378-ad81-45bb-b2bd-496e51a4e989))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR016") (unit 1)
         )
@@ -14042,7 +14042,7 @@
     (pin "3" (uuid f28aea30-fabe-47a6-a9c9-7857c9ef1809))
     (pin "4" (uuid 474fc296-fb5c-4a88-863c-95a9d0b75102))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "I²C6") (unit 1)
         )
@@ -14067,7 +14067,7 @@
     )
     (pin "1" (uuid e3350d54-5ab6-41e8-b8c7-48ca270e771c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR067") (unit 1)
         )
@@ -14115,7 +14115,7 @@
     (pin "8" (uuid e29b085c-6e19-45d6-88eb-40623efc8db7))
     (pin "9" (uuid 7be9898e-460a-408a-88c8-0c99acaae4c9))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "U6") (unit 1)
         )
@@ -14140,7 +14140,7 @@
     )
     (pin "1" (uuid d9e7b705-4769-433c-98bc-36ed28064a3d))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR08") (unit 1)
         )
@@ -14168,7 +14168,7 @@
     (pin "3" (uuid b43b9aab-00e2-4a69-974d-92bbd15ddba5))
     (pin "4" (uuid 18555446-1d15-4f32-be22-af73980e985b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "J1") (unit 1)
         )
@@ -14203,7 +14203,7 @@
     (pin "1" (uuid 59b13beb-4216-40fd-8c4b-00d16d9942b2))
     (pin "2" (uuid cdff8fd3-cb86-4753-9703-a036205c7ae1))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R46") (unit 1)
         )
@@ -14228,7 +14228,7 @@
     )
     (pin "1" (uuid 1438cc8d-b4d2-4e5c-b571-60211e5f1b74))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR048") (unit 1)
         )
@@ -14263,7 +14263,7 @@
     (pin "1" (uuid 370c2423-06d5-4bc2-b13c-043df726771e))
     (pin "2" (uuid d92b6a5b-d1cd-4d53-9d86-734a19e33ace))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R13") (unit 1)
         )
@@ -14288,7 +14288,7 @@
     )
     (pin "1" (uuid 8eecbd14-f16c-46ae-980e-c082e3a2ac5d))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR056") (unit 1)
         )
@@ -14314,7 +14314,7 @@
     (pin "1" (uuid 1d8af70d-9028-4144-bcc8-774fc183dd97))
     (pin "2" (uuid ff0df611-b7e1-456e-9d70-b4db91b835b7))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "LED") (unit 1)
         )
@@ -14339,7 +14339,7 @@
     )
     (pin "1" (uuid f6264f82-f20b-4fed-aa30-b318e152d44e))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR065") (unit 1)
         )
@@ -14364,7 +14364,7 @@
     )
     (pin "1" (uuid 6a2243fb-c787-4470-b8c5-785b989caa03))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR059") (unit 1)
         )
@@ -14392,7 +14392,7 @@
     (pin "3" (uuid d8f83276-8a03-4cc7-82a4-d79448ba44ec))
     (pin "4" (uuid b51d7bcf-9436-48f0-ab65-7a2bc662146d))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "I²C5") (unit 1)
         )
@@ -14427,7 +14427,7 @@
     (pin "1" (uuid b1104627-d89e-4589-8f17-5feda7f5a82a))
     (pin "2" (uuid f548f89d-4f1d-482f-99e5-b1dace757159))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "D2") (unit 1)
         )
@@ -14452,7 +14452,7 @@
     )
     (pin "1" (uuid 8cbf9a9e-7312-4a85-aa57-0743c1f977ed))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR051") (unit 1)
         )
@@ -14480,7 +14480,7 @@
     (pin "3" (uuid da463954-a9d3-4002-8dcc-ebb4ce0fc8bb))
     (pin "4" (uuid 72e95935-216a-4172-b907-40712d4f592c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "I²C0") (unit 1)
         )
@@ -14505,7 +14505,7 @@
     )
     (pin "1" (uuid 261e281e-9350-4899-8497-40a036d9729f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG010") (unit 1)
         )
@@ -14530,7 +14530,7 @@
     )
     (pin "1" (uuid 958cd57a-459b-494f-9e79-1c4e1d8b1948))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR024") (unit 1)
         )
@@ -14555,7 +14555,7 @@
     )
     (pin "1" (uuid 20b6f0ba-5b61-4e8b-9c29-f634c9879eda))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR053") (unit 1)
         )
@@ -14580,7 +14580,7 @@
     )
     (pin "1" (uuid 0194b26b-7165-47e7-9632-e933a4dcb346))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR062") (unit 1)
         )
@@ -14605,7 +14605,7 @@
     )
     (pin "1" (uuid 232c8dc3-5ed9-4992-ae9e-540b365fe7d2))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR064") (unit 1)
         )
@@ -14640,7 +14640,7 @@
     (pin "1" (uuid 4f09910f-ac10-4090-86c8-09c3c56449ae))
     (pin "2" (uuid ff66287a-7438-4a9f-b66b-d2d964df125d))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R31") (unit 1)
         )
@@ -14665,7 +14665,7 @@
     )
     (pin "1" (uuid 82d72b4c-2cde-4297-89f5-4cd67162119a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR01") (unit 1)
         )
@@ -14693,7 +14693,7 @@
     (pin "3" (uuid e76c1e71-5008-4fa9-a7db-ebc241d2803d))
     (pin "4" (uuid d38a6fb4-ee76-4ca2-b54d-eb07db42d547))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "I²C2") (unit 1)
         )
@@ -14718,7 +14718,7 @@
     )
     (pin "1" (uuid 48972ab6-1d77-40c7-8fe8-d364d92d14be))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG05") (unit 1)
         )
@@ -14753,7 +14753,7 @@
     (pin "1" (uuid 7de9dfb9-ce3f-47ab-b883-8f20af89bb3b))
     (pin "2" (uuid ff2c10ab-1a92-4080-a351-088012b8d864))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C25") (unit 1)
         )
@@ -14779,7 +14779,7 @@
     (pin "1" (uuid c21e0c7a-e945-4559-aafb-ddb1a6f3bda2))
     (pin "2" (uuid dae12c09-badd-42da-9eb7-4b52e756ae9e))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "D1") (unit 1)
         )
@@ -14805,7 +14805,7 @@
     (pin "1" (uuid 24cd6b65-01fb-40f3-92ee-c475b359c1b2))
     (pin "2" (uuid 7749629f-8a64-440f-bba6-fd597774f641))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R4") (unit 1)
         )
@@ -14840,7 +14840,7 @@
     (pin "1" (uuid 9214bdcf-496f-4a98-99fb-ab9b27b31fc1))
     (pin "2" (uuid 67ce0063-1cad-4dab-8375-a9516f1dc54a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R27") (unit 1)
         )
@@ -14868,7 +14868,7 @@
     (pin "3" (uuid 3826a6ee-9e1e-48c8-b603-e318c7933665))
     (pin "4" (uuid 642b116e-a907-4b95-8280-18ff04744560))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "I²C7") (unit 1)
         )
@@ -14903,7 +14903,7 @@
     (pin "1" (uuid 8bc2bc9f-0f39-4a46-bf42-45d20f806641))
     (pin "2" (uuid 3b0b2e50-2c9c-4b4c-8a5a-af0df4b3e481))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C29") (unit 1)
         )
@@ -14944,7 +14944,7 @@
     (pin "B8" (uuid 282f8d57-e4ff-47ab-983d-d8ecbeb13760))
     (pin "B9" (uuid 28a94b9d-3cb8-49c8-ac8c-c38e7a12aa0a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "U1") (unit 1)
         )
@@ -14955,10 +14955,10 @@
   (symbol (lib_id "Regulator_Switching:R-78B3.3-2.0") (at 186.69 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ee7885b-aaf7-4015-986d-d3f6dbf30054)
-    (property "Reference" "U5" (at 186.69 82.55 0)
+    (property "Reference" "U5" (at 186.69 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "K7803-2000R3L" (at 186.69 85.09 0)
+    (property "Value" "K7803-2000R3L" (at 186.69 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Converter_DCDC:Converter_DCDC_RECOM_R-78HB-0.5L_THT" (at 187.96 96.52 0)
@@ -14971,7 +14971,7 @@
     (pin "2" (uuid 6b1c066a-7387-4940-ac2c-3a05dae57d91))
     (pin "3" (uuid 55c02567-3715-43be-b88e-d7557bb62094))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "U5") (unit 1)
         )
@@ -15006,7 +15006,7 @@
     (pin "1" (uuid 64d13586-9197-4013-a368-e91157c8520a))
     (pin "2" (uuid b70e0a16-6297-432c-be71-6486dde1eb89))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "PWRLED1") (unit 1)
         )
@@ -15031,7 +15031,7 @@
     )
     (pin "1" (uuid 13716dde-fdeb-4a25-a3ae-060bfba35149))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR030") (unit 1)
         )
@@ -15066,7 +15066,7 @@
     (pin "1" (uuid 5064380c-5275-4a2d-9a21-8e9d857068f3))
     (pin "2" (uuid 8b1e0338-0d17-47ff-acbd-8c2ce9a40d9a))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R44") (unit 1)
         )
@@ -15091,7 +15091,7 @@
     )
     (pin "1" (uuid 67639f9b-6126-4061-9e8a-4e2d86451a52))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR055") (unit 1)
         )
@@ -15126,7 +15126,7 @@
     (pin "1" (uuid 706a9174-7121-43ad-ac19-5c68414961c0))
     (pin "2" (uuid b425b447-4f2c-4b66-8c61-c28786eedfb3))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C27") (unit 1)
         )
@@ -15161,7 +15161,7 @@
     (pin "1" (uuid db8de0e1-bfe3-4bcb-9596-7a0ebcd5209d))
     (pin "2" (uuid 641de4ef-b220-4e40-be5f-6ea60564770f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R50") (unit 1)
         )
@@ -15186,7 +15186,7 @@
     )
     (pin "1" (uuid 8136ee13-86fa-41b5-893b-4e8be0e8ca41))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR035") (unit 1)
         )
@@ -15211,7 +15211,7 @@
     )
     (pin "1" (uuid 7099a0c6-88db-40de-8599-adc95d68f86f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR036") (unit 1)
         )
@@ -15246,7 +15246,7 @@
     (pin "1" (uuid b9329c5e-a88b-41b0-9f29-11a7a4668671))
     (pin "2" (uuid c973a308-1c39-4214-abc3-7f53a5c4673b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C30") (unit 1)
         )
@@ -15281,7 +15281,7 @@
     (pin "1" (uuid 0bf73b1b-6675-44f0-907e-29f0a0d7dd3c))
     (pin "2" (uuid 5841d087-467c-44fb-9c3c-6593d80bf30c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C23") (unit 1)
         )
@@ -15306,7 +15306,7 @@
     )
     (pin "1" (uuid bc66b297-c183-49d6-b2c5-ff7007a18c21))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR017") (unit 1)
         )
@@ -15341,7 +15341,7 @@
     (pin "1" (uuid b282c3f7-345c-4730-8884-6a0f09906f2c))
     (pin "2" (uuid 9759e6b5-acb7-46b1-ae57-57d18c5c1861))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C11") (unit 1)
         )
@@ -15367,7 +15367,7 @@
     (pin "1" (uuid 52ba6231-c415-41bd-b1ce-e6b60ccee6be))
     (pin "2" (uuid 37c438ac-eca5-467e-b9ea-1da44aa0b6e9))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R3") (unit 1)
         )
@@ -15392,7 +15392,7 @@
     )
     (pin "1" (uuid 370929b2-100e-48c5-9208-0e1eb6ff3b87))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR025") (unit 1)
         )
@@ -15427,7 +15427,7 @@
     (pin "1" (uuid 8b889f53-8e1a-45ec-80d2-6253f3a17236))
     (pin "2" (uuid f5a86123-2425-4763-8ad6-cfeb230c4248))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R34") (unit 1)
         )
@@ -15462,7 +15462,7 @@
     (pin "1" (uuid 4d95119c-715d-47b1-8a0d-a0d120b85bad))
     (pin "2" (uuid 12c3979d-98d6-4c92-96f3-a2fee4ad649f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R26") (unit 1)
         )
@@ -15497,7 +15497,7 @@
     (pin "1" (uuid d9786099-0065-48d6-b566-416e8536b97e))
     (pin "2" (uuid 529d3f28-9926-49b5-abd8-ddab8e1b81f3))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C32") (unit 1)
         )
@@ -15523,7 +15523,7 @@
     (pin "1" (uuid 4baf6242-1cf8-41f2-8af8-7aa65d1e7890))
     (pin "2" (uuid 517482dd-0dee-4404-9c3b-152ad77ed19b))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C1") (unit 1)
         )
@@ -15548,7 +15548,7 @@
     )
     (pin "1" (uuid 6844b09a-de26-4e2a-97a0-6186933d630c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG06") (unit 1)
         )
@@ -15583,7 +15583,7 @@
     (pin "1" (uuid ed09b8ce-7e33-4ce6-9271-e002c0f9f67d))
     (pin "2" (uuid 1d99ba11-9ab1-4043-a1ee-393f92be5a02))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R30") (unit 1)
         )
@@ -15594,10 +15594,10 @@
   (symbol (lib_id "Regulator_Switching:R-78B5.0-2.0") (at 64.77 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d8bdb0f7-2ae1-4c40-be1a-b46c0f3e7c63)
-    (property "Reference" "U2" (at 64.77 62.23 0)
+    (property "Reference" "U2" (at 64.77 63.5 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Converter_DCDC_RECOM_R-78HB-0.5L_THT" (at 64.77 64.77 0)
+    (property "Value" "K7805-2000R3L" (at 64.77 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Converter_DCDC:Converter_DCDC_RECOM_R-78HB-0.5L_THT" (at 66.04 76.2 0)
@@ -15610,7 +15610,7 @@
     (pin "2" (uuid a6bcb4ff-9824-44cf-8b64-73f90d472bfd))
     (pin "3" (uuid f19f73df-826f-4e74-bc81-da48ddc8b570))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "U2") (unit 1)
         )
@@ -15635,7 +15635,7 @@
     )
     (pin "1" (uuid b7b08b6d-92f7-4c96-9120-0c0939adfd3f))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG011") (unit 1)
         )
@@ -15660,7 +15660,7 @@
     )
     (pin "1" (uuid 56be5a6b-68bc-4d37-afc4-643fc14882ed))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR052") (unit 1)
         )
@@ -15695,7 +15695,7 @@
     (pin "1" (uuid c6ef732b-3962-4bfc-8c78-bd256d082275))
     (pin "2" (uuid b6960844-cf1d-4f24-ae46-ad110fa26dcd))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R33") (unit 1)
         )
@@ -15730,7 +15730,7 @@
     (pin "1" (uuid 3e3fc4c0-f657-43eb-88f3-815b0a1627a1))
     (pin "2" (uuid 1bb1c0e7-90fe-4743-8f79-6e1364ed21e0))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R47") (unit 1)
         )
@@ -15755,7 +15755,7 @@
     )
     (pin "1" (uuid d57fae00-d97b-446c-b370-21f56241fb9c))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR060") (unit 1)
         )
@@ -15780,7 +15780,7 @@
     )
     (pin "1" (uuid e5723c12-0456-42d6-80ba-2b99478bc314))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR066") (unit 1)
         )
@@ -15815,7 +15815,7 @@
     (pin "1" (uuid d71e1b70-642d-487d-a463-fa0972d4f8c2))
     (pin "2" (uuid 88d6bf5f-bfa6-4da8-b17f-388bdff4d694))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C28") (unit 1)
         )
@@ -15840,7 +15840,7 @@
     )
     (pin "1" (uuid b40ac466-023f-4af8-9e96-3807565656b3))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR054") (unit 1)
         )
@@ -15865,7 +15865,7 @@
     )
     (pin "1" (uuid 8b031f96-5803-4f0f-847f-8fa0ebba0639))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR06") (unit 1)
         )
@@ -15900,7 +15900,7 @@
     (pin "1" (uuid b1445b67-5fa8-44f9-a180-9f2310753ec8))
     (pin "2" (uuid 62f30373-f8f3-480b-8caa-cb32f41e54be))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R36") (unit 1)
         )
@@ -15935,7 +15935,7 @@
     (pin "1" (uuid b88a218e-8e55-40a0-9ba6-a5c657e18822))
     (pin "2" (uuid 9672d042-6126-4e32-a525-de36e8c29ac2))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "C31") (unit 1)
         )
@@ -15970,7 +15970,7 @@
     (pin "1" (uuid 88a6ce32-6d9f-45d8-93ef-40301f339fc3))
     (pin "2" (uuid 04ecf26f-aad7-4ecb-9a83-0b5610ed2ab6))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R43") (unit 1)
         )
@@ -15995,7 +15995,7 @@
     )
     (pin "1" (uuid 834bd22c-73fc-41a7-96a7-cfb73a9f1032))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR061") (unit 1)
         )
@@ -16020,7 +16020,7 @@
     )
     (pin "1" (uuid c274f1a7-2401-43e0-9591-6b5cfc7b4b70))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR028") (unit 1)
         )
@@ -16055,7 +16055,7 @@
     (pin "1" (uuid 422156bf-6405-4cf7-af9c-8185a34e210d))
     (pin "2" (uuid f1c3cd6e-2c84-43b6-b11a-ecd3cdf40dda))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "R28") (unit 1)
         )
@@ -16080,7 +16080,7 @@
     )
     (pin "1" (uuid 1a1145c7-074f-4769-bd3c-fbd2a62e0a73))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#FLG01") (unit 1)
         )
@@ -16105,7 +16105,7 @@
     )
     (pin "1" (uuid cf4d978e-8809-48d7-b6f1-1f2227193e6d))
     (instances
-      (project "ESP32-DEVKIT-L"
+      (project "Rev0"
         (path "/705b7a13-b3b8-4412-8398-6e1b31534a64"
           (reference "#PWR0101") (unit 1)
         )
