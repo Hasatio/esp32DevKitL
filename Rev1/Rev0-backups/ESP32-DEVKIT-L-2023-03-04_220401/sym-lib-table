@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "ESP32-GATEWAY_Rev_G")(type "Legacy")(uri "${KIPRJMOD}/Rev1.lib")(options "")(descr ""))
-)
