@@ -6,10 +6,10 @@ The circuit taken as an example while designing the board [Olimex ESP32-Gateway]
 ## Revision 0
 
 ### Added:
-- TCA9548 mux IC
+- 1x TCA9548 mux IC
 - 8x QWIIC connector
 - 2x2 Molex connector for for external power supply
-- K7805-2000R3L or K7805-2000R3 for 5v convert
+- 1x K7805-2000R3L or K7805-2000R3 for 5v convert
 
 ### Changed:
 - Type C
