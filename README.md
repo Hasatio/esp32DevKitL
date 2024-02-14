@@ -14,7 +14,7 @@ The circuit taken as an example while designing the board [Olimex ESP32-Gateway]
 ### Changed:
 - Type C
 - ESP32-WROOM-32D model
-- K7803-2000R3L or K7803-2000R3 for 5v to 3.3v convert
+- K7803-2000R3L or K7803-2000R3 for 5V to 3.3V convert
 - Texts in pinout
 - 
 ## Revision 1
