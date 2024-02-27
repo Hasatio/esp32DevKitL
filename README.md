@@ -10,17 +10,17 @@ The circuit taken as an example while designing the board [Olimex ESP32-Gateway]
 - 8x QWIIC connector
 - 2x2 Molex connector for for external power supply
 - 1x K7805-2000R3L or K7805-2000R3 for 5v convert
+- Logo
 
 ### Changed:
 - Type C
 - ESP32-WROOM-32D model
 - K7803-2000R3L or K7803-2000R3 for 5V to 3.3V convert
 - Texts in pinout
-- 
+
 ## Revision 1
 
 ### Added:
-- Logo
 - QWIIC connector pinout
 
 ## Revision 2
